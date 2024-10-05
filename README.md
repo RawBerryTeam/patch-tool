@@ -1,2 +1,2 @@
-# patch-tool
-Tool for patching RawBerry
+# Patch Tool
+Tool for patching RawBerry source code.
