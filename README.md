@@ -1,3 +1,6 @@
+> [!WARNING]
+> Tool discontinued. Do not use it.
+
 # Patch Tool
 
 Tool for patching RawBerry source code.
